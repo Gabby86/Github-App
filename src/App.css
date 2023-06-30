@@ -1,0 +1,26 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+  }
+  
+  body{
+    background-color: rgb(176, 176, 223);
+    
+  }
+  .input{
+    margin-bottom: 10px;
+    padding: 20px;
+    border-radius: 10px;
+  }
+  .button{
+    margin-bottom: 10px;
+    background-color: azure;
+    padding: 20px;
+    border-radius: 10px;
+  }
+  .repo{
+    margin-top: 20px;
+    margin-bottom: 10px;
+  }
+  
